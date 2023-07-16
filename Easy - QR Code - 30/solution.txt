@@ -1,0 +1,8 @@
+Path to Solve:
+1. Download QR Code image
+2. Scan with phone or online scanner
+3. Decode text (Base64)
+
+Encoded Flag: c2N7dzNsbF9UaDRUX1c0JF8zNHNZfQ==
+
+Flag: sc{w3ll_Th4T_W4$_34sY}
