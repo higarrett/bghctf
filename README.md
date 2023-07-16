@@ -15,4 +15,4 @@ Use this format for challenges:
  - solution.txt
  - (any other necessary files that users will need)
 
-Flags should be in this format: "sc{VALUE}
+Flags should be in this format: "sc{VALUE}"
