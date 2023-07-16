@@ -1,0 +1,8 @@
+Path to Solve:
+1. Download song file
+2. Read metadata of file
+3. Decode comment in metadata (Base64)
+
+Encoded Flag: c2N7RWFzeV9hc19BQkNfU2ltcGxlX2FzXzEyM30=
+
+Flag: sc{Easy_as_ABC_Simple_as_123}
