@@ -1,0 +1,6 @@
+Path to Solve:
+1. Connect to server (IP: x.x.x.x Port: 9902)
+2. Read output of connection
+3. Write a python script to solve the challeges and print the flag
+
+Flag: sc{math_1S_bas1c}

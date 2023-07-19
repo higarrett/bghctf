@@ -1,0 +1,7 @@
+Challenge Name: Python Math 2
+Points: 150
+
+Challege Description:
+Solve the problems, but hurry up. They are a bit bigger.
+
+x.x.x.x 9901

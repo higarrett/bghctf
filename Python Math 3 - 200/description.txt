@@ -1,0 +1,7 @@
+Challenge Name: Python Math 3
+Points: 200
+
+Challege Description:
+Solve the problems, but hurry up. There is something weird about the numbers.
+
+x.x.x.x 9902

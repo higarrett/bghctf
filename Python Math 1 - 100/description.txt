@@ -1,0 +1,8 @@
+Challenge Name: Python Math 1
+Difficulty: Easy
+Points: 100
+
+Challege Description:
+Solve the problems, but hurry up.
+
+x.x.x.x 9900
