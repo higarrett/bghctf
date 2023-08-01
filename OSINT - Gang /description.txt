@@ -1,1 +1,6 @@
+Challenge Name: Gang
+Difficulty: Easy
+Points: 100
 
+Challege Description:
+Identify Me!
