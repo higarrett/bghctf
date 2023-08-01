@@ -1,1 +1,6 @@
+Challenge Name: Phish Me
+Difficulty: Easy
+Points: 100
 
+Challege Description:
+What are the decimal coordinates of the bandits of scam-pur?
