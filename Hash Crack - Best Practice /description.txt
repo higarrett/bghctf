@@ -1,1 +1,8 @@
+Challenge Name: Best Practice
+Difficulty: Easy
+Points: 100
 
+Challege Description:
+NSA does not recommend this password hash because it uses a simple alphabetical substitution Vigenere cipher with a hardcoded publicly known key.
+
+hash: 03175810085C355B1E1B123A143D061C1603382135
