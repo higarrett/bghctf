@@ -1,1 +1,6 @@
+Challenge Name: Never Yield
+Difficulty: Easy
+Points: 100
 
+Challege Description:
+I need help finding the channel ID.
