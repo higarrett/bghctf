@@ -1,1 +1,10 @@
+Path to Solve:
+1. Read biography
+2. Within the biography is the clue “it expanded $26 million and came out of stealth mode due to too much snow” 
+    - expand $26 million to 26,000,000 to use as password for stegsnow tool
+3. Install stegsnow tool on Kali Linux
+    - sudo apt install stegsnow
+4. To reveal flag use the following command
+    - stegsnow -C -p "26,000,000" snowflake_inc.txt
 
+Flag: sc{sT3@lthy.sn0w}
