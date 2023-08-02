@@ -1,0 +1,9 @@
+Path to Solve:
+1. Use linux commands to search for flag
+2. strings mac_find.log | grep "sc{" 
+    - shows first half of flag is sc{dr3@dfVL_
+3. strings mac_find.log | grep "}" 
+    - after reviewing results it shows second half of flag is _l0gs}
+
+
+Flag: sc{dr3@dfVL_l0gs}
