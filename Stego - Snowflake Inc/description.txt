@@ -1,1 +1,6 @@
+Challenge Name: Snowflake Inc
+Difficulty: Medium
+Points: 150
 
+Challege Description:
+Read the biography about Snowflake Inc. There is key information in there. It’s not as obvious of course.
