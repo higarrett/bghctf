@@ -1,0 +1,9 @@
+Path to Solve:
+1. Use Google to search nsa simple alphabetical substitution Vigenere cipher with a hardcoded publicly known key
+2. Search results should identify a pdf file named Cisco Password Types: Best Practices
+3. Click on file and use the find tool to help identify location of alphabetical substitution. It should identify description about Type 7 password
+4. Look online for a Cisco Type 7 reverser or decoder tool to reveal flag
+
+Encoded Flag: 03175810085C355B1E1B123A143D061C1603382135
+
+Flag: sc{n3tw0rk_cOmprIse}
