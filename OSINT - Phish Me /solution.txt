@@ -1,0 +1,8 @@
+Path to Solve:
+1. Use Google to search bandits of scam-pur
+2. Search results should identify Jamtara which is a small village in India
+3. Use Google to search decimal coordinates of Jamtara
+4. Answer should be in (lat, long) format to the nearest tenth
+
+
+Flag: sc{24.0, 86.8}
