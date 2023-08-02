@@ -1,0 +1,7 @@
+Path to Solve:
+1. Use Google to search Russian ransomware group goanywhere mft
+2. Search results should identify clop as the group
+3. Answer should be all capital letters
+
+
+Flag: sc{CLOP}
