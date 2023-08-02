@@ -1,0 +1,8 @@
+Path to Solve:
+1. Go to the link and view YouTube video for entertainment purposes
+2. To view YouTube metadata go to https://mattw.io/youtube-metadata/
+3. Enter the video link in submit a link box and hit submit
+4. Channel ID should be in Snippet box
+
+
+Flag: sc{UCGIY_O-8vW4rfX98KlMkvRg}
