@@ -1,0 +1,9 @@
+Method for Solving:
+File attached: 123456.png
+1. Upload the accompanying image to Google Images.
+2. Perform a Google search for Casa Rosada, Federal Government Office.
+3. Visit Wikipedia and read about Casa Rosada-> https://en.wikipedia.org/wiki/Casa_Rosada or
+https://www.casarosada.gob.ar/international/argentine-government-house/history
+
+Flag: sc{May_Square, president_of_Argentina}
+      sc{**********, **********************} 
