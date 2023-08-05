@@ -1,0 +1,7 @@
+
+Method for Solving:
+1. Visit Shodan.io and log in
+2. Look for the model number by searching for the IP 88.164.222.172
+
+Flag: sc{CR3000-07000}
+          sc{************}

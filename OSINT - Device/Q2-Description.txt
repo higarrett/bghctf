@@ -1,0 +1,10 @@
+OSINT
+Challenge Name: Device
+Difficulty: Medium
+Points: 200
+
+Description.txt
+Challenge Description:
+Examine the model reference for the following IP address.
+Q2: What model number is the following host: 88.164.222.172? 
+
