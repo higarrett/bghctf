@@ -1,0 +1,13 @@
+
+Method for Solving:
+1.  Search: What is the meaning of septentrional? Meaning: of the north 
+      Look up the northernmost city on the African continent-> Bizerte, Tunisia.
+2.  I searched for webpages pertaining to boats arriving in the Tunisian city of Bizerte on August 1, 8:14pm EST.
+      https://www.vesselfinder.com/vessels/details/9519286
+
+3.   The date and time are given in EST. Please convert EST to UTC (Universal Time Coordinated or UTC).
+
+Flag: sc{LUCY_OCEAN}
+          sc{**********}
+
+

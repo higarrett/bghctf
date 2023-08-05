@@ -1,1 +1,12 @@
+OSINT
+Challenge Name: Port
+Difficulty: Medium
+Points: 250
+
+Description.txt
+Challenge Description:
+Look for indications regarding a ship in the African continent on the internet.
+Q1: What is the name of the bulk ship that landed in Africa's septentrional city/port at 8:14 p.m. EST on August 1?
+
+
 
