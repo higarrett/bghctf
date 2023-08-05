@@ -1,6 +1,6 @@
 Challenge Name: Scan This... or don't I don't care
 Difficulty: Easy
-Points: 50
+Points: 30
 
 Challenge Description:
 Scan the thing, submit the other thing, simple. 
