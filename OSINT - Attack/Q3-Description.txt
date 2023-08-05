@@ -1,1 +1,11 @@
+OSINT
+Challenge Name: Attack
+Difficulty: Medium
+Points: 250
+
+Description.txt
+Challenge Description:
+Look for indications regarding the attack number on the internet.
+Q1: What is the attack number that occurred on  -5.5544444, 105.31527777777778 on 2023.July.22?
+
 

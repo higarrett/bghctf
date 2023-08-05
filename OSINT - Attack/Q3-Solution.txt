@@ -1,0 +1,12 @@
+Method for Solving:
+
+1. Convert the coordinates from decimal degrees (DD) to decimal minutes seconds (DMS)
+   -5.5544444, 105.31527777777778  -> 05:32.76S – 105:18.55E
+  You can visit the website: https://www.gps-coordinates.net/gps-coordinates-converter 
+2. Search in google using the info: new coordinates (05:32.76S – 105:18.55E) and date 22.07.2023
+  By visiting the website ICC, International Chamber Commerce - Crime Services. 
+ You will find the attack-ID number.
+ https://www.icc-ccs.org/index.php/piracy-reporting-centre/live-piracy-report
+
+Flag: sc{073-23}
+      sc{******}
