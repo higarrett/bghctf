@@ -1,0 +1,13 @@
+The Name of the Challenge is Welcome to Da Playas Club. 
+
+The Grid coordinates on the page, if plugged into google maps, will drop a pin at Lake Travis zipline adventures. 
+The song playing in the media player is also a clue, as it is Make it Rain by Travis Porter. Due to 2 instances of Travis being used, and Zipline being incorporated, 
+players are to piece together that the filetype they are to download is Travis.zip from the URL. 
+
+
+To retrieve the flag from the image: 
+
+When the zip archive has been downloaded, an image file named Dassit.png will be opened. Players are then supposed to use 7zip against the image, as it is actually 
+an archive. When 7zip is utilized against the .png file, a document named text.txt will be revealed, and in it they player will retrieve the flag that is: 
+
+5|n 5|ty P14y45

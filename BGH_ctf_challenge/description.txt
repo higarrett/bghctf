@@ -1,0 +1,7 @@
+Playas Club: 
+
+Utilizing OSINT and Steganography, players are tasked with using clues found on the intro web page to: 
+
+a) discover the name of the file they need to plug into the URL bar to download
+
+b) utilize steg techniques to find hidden data within image files 
