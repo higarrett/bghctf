@@ -1,0 +1,10 @@
+OSINT
+Challenge Name: Barbie’s house
+Difficulty: Easy
+Points: 100
+
+Description.txt
+Challenge Description:
+Investigate the internet for hints about a location's name.
+Q1: Where sits and who else is living in a Pink house like Barbie? 
+Format: {Answer_1, Answer_2}
