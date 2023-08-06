@@ -1,7 +1,11 @@
-
+Solution.txt
 Method for Solving:
 1. Visit Shodan.io and log in
-2. Look for the model number by searching for the IP 88.164.222.172
+2. Perform a search for the IP 88.164.222.172
+3. The device model connected to the IP 88.164.222.172 is CR3000-07000. 
+4. Look for the reference CR3000-07000. The device description indicates the devices have 2 10/100Base Ethernet ports.
+https://www.redlion.net/products/industrial-automation/hmis-and-panel-meters/hmi-operator-panels/connected-cr1000-and-cr3000
 
-Flag: sc{CR3000-07000}
-          sc{************}
+
+Flag: sc{2_10/100Base}
+      sc{************}
