@@ -1,0 +1,190 @@
+    1  ls
+    2  cd ghv3/
+    3  ls
+    4  sed -i -e 's/\r$//' ghv3_setup.sh
+    5  ./gh3_setup.sh
+    6  ls
+    7  chmod +x ghv3_setup.sh 
+    8  ls
+    9  ./gh3_setup.sh
+   10  ./ghv3_setup.sh
+   11  sudo echo "GHVCTF[sh3s3llsw3bsh3lls]" > /root/.flag.txt
+   12  sudo su
+   13  ip addr
+   14  systemctl status cmd.service 
+   15  nano ghv3_setup.sh 
+   16  sudo systemctl daemon-reload
+   17  sudo systemctl enable cmd.service
+   18  sudo systemctl restart cmd.service
+   19  systemctl status cmd.service 
+   20  sudo nano /etc/systemd/system/cmd.service 
+   21  ls -a /var/cmd/
+   22  python3 /var/cmd/.cmd_service.py 
+   23  sudo nano /var/cmd/.cmd_service.py 
+   24  sudo systemctl restart cmd.service
+   25  sudo systemctl status cmd.service
+   26  python3 /var/cmd/.cmd_service.py 
+   27  sudo nano /var/cmd/.cmd_service.py 
+   28  sudo systemctl restart cmd.service
+   29  sudo systemctl status cmd.service
+   30  python3 /var/cmd/.cmd_service.py 
+   31  sudo nano /var/cmd/.cmd_service.py 
+   32  sudo systemctl restart cmd.service
+   33  sudo systemctl status cmd.service
+   34  sudo systemctl restart cmd.service
+   35  sudo systemctl status cmd.service
+   36  sudo chown ftp:root /var/www/html/
+   37  sudo chmod 0777 /var/www/html/
+   38  sudo nano /etc/vsftpd.conf
+   39  sudo systemctl restart vsftpd
+   40  sudo systemctl status vsftpd
+   41  sudo nano /etc/vsftpd.conf
+   42  sudo systemctl status vsftpd
+   43  sudo nano /etc/vsftpd.conf
+   44  sudo systemctl status apache
+   45  sudo systemctl status apache2
+   46  sudo systemctl status vsftpd
+   47  sudo nano /etc/vsftpd.conf
+   48  sudo systemctl restart vsftpd
+   49  sudo systemctl status vsftpd
+   50  sudo nano /etc/vsftpd.conf
+   51  sudo systemctl restart vsftpd
+   52  sudo systemctl status vsftpd
+   53  sudo nano /etc/vsftpd.conf
+   54  sudo systemctl restart vsftpd
+   55  sudo systemctl status vsftpd
+   56  usermod -s /sbin/nologin testuser
+   57  usermod -s /sbin/nologin garrett
+   58  sudo usermod -s /sbin/nologin garrett
+   59  sudo garrett
+   60  sudo useradd garrett
+   61  sudo su garrett
+   62  sudo su - garrett
+   63  sudo su -l www-data -s /bin/bash
+   64  sudo chsh -s /bin/bash garrett
+   65  sudo chsh -s /bin/bash www-data
+   66  sudo nano /etc/vsftpd.conf
+   67  sudo systemctl restart vsftpd
+   68  sudo systemctl status vsftpd
+   69  sudo systemctl restart vsftpd
+   70  sudo systemctl status vsftpd
+   71  sudo cp our_vsftpd.conf /etc/vsftpd.conf
+   72  sudo nano /etc/vsftpd.conf
+   73  sudo systemctl restart vsftpd
+   74  sudo systemctl status vsftpd
+   75  sudo nano /etc/vsftpd.conf
+   76  sudo systemctl restart vsftpd
+   77  sudo systemctl status vsftpd
+   78  sudo systemctl stop vsftpd
+   79  sudo cp our_vsftpd.conf /etc/vsftpd.conf
+   80  sudo rm -r /etc/vsftpd.conf 
+   81  sudo cp our_vsftpd.conf /etc/vsftpd.conf
+   82  sudo nano /etc/vsftpd.conf
+   83  sudo systemctl restart vsftpd
+   84  sudo systemctl status vsftpd
+   85  sudo chown root:root /var/www/html/
+   86  sudo systemctl restart vsftpd
+   87  sudo systemctl status vsftpd
+   88  sudo chmod 777 /var/www/html/
+   89  sudo systemctl restart vsftpd
+   90  sudo systemctl status vsftpd
+   91  sudo chmod 644 /var/www/html/
+   92  sudo chmod 0644 /var/www/html/
+   93  sudo nano /etc/vsftpd.conf
+   94  sudo systemctl restart vsftpd
+   95  sudo systemctl status vsftpd
+   96  sudo nano /etc/vsftpd.conf
+   97  sudo chmod 777 /var/www/html/
+   98  sudo chmod 0644 /var/www/html/
+   99  sudo apt auto-remove apache2
+  100  sudo apt install apache2 -y
+  101  locate
+  102  find
+  103  find index.html
+  104  cd /
+  105  find index.html
+  106  sudo chmod -R /var/www/html
+  107  sudo chmod -R /var/www/html u+w
+  108  mkdir /var/www/html/test
+  109  sudo nano /etc/vsftpd.conf
+  110  sudo systemctl restart vsftpd
+  111  sudo systemctl status vsftpd
+  112  sudo chown nobody:nobody /var/www/html
+  113  sudo chown nobody:nogroup /var/www/html
+  114  sudo chmod a+rwx /var/www/html/secret/
+  115  sudo mkdir /var/www/html/secret/
+  116  sudo chmod a+rwx /var/www/html/secret/
+  117  sudo nano /etc/vsftpd.conf
+  118  sudo systemctl restart vsftpd
+  119  sudo systemctl status vsftpd
+  120  sudo nano /etc/vsftpd.conf
+  121  sudo systemctl restart vsftpd
+  122  sudo mkdir /var/ftp/pub/secret
+  123  sudo mkdir /var/ftp/pub/
+  124  sudo mkdir /var/ftp/
+  125  sudo nano /etc/vsftpd.conf
+  126  sudo systemctl restart vsftpd
+  127  sudo chmod a+rwx /var/ftp/
+  128  sudo chown nobody:nogroup /var/ftp
+  129  sudo mkdir /var/ftp2
+  130  sudo mkdir /var/ftp2/anonymous
+  131  sudo nano /etc/vsftpd.conf
+  132  sudo systemctl restart vsftpd
+  133  sudo systemctl status vsftpd
+  134  cd /var/www
+  135  ls
+  136  cd html
+  137  sudo cd html
+  138  sudo su
+  139  sudo chown ftp /var/www/html/secret
+  140  sudo nano /etc/vsftpd.conf
+  141  sudo systemctl restart vsftpd
+  142  sudo systemctl status vsftpd
+  143  sudo nano /etc/vsftpd.conf
+  144  sudo systemctl restart vsftpd
+  145  sudo systemctl status vsftpd
+  146  sudo useradd ftp
+  147  sudo nano /etc/systemd/system/vsftpd.service
+  148  ktop
+  149  htop
+  150  sudo nano /etc/vsftpd.conf
+  151  sudo systemctl restart vsftpd
+  152  sudo systemctl status vsftpd
+  153  sudo nano /etc/sysconfig/selinux
+  154  sestatus
+  155  sudo nano /etc/vsftpd.conf
+  156  sudo systemctl restart vsftpd
+  157  sudo systemctl status vsftpd
+  158  sudo nano /etc/vsftpd.conf
+  159  sudo chmod 0777 /var/www/html/secret
+  160  sudo chmod 0777 /var/www/html
+  161  sudo chmod 775 /var/www/html
+  162  sudo chmod 775 /var/www/html/secret
+  163  sudo chown ftp:ftp /var/www/html/secret
+  164  sudo nano /etc/vsftpd.conf
+  165  sudo systemctl restart vsftpd
+  166  sudo systemctl status vsftpd
+  167  sudo chmod -R 775 /var/www/html/secret/
+  168  ls
+  169  cd html
+  170  ls
+  171  cd secret
+  172  ls
+  173  cp webby.php /var/www/html
+  174  sudo cp webby.php /var/www/html
+  175  sudo apt install php -y
+  176  sudo usermod -aG sudo www-data
+  177  sudo passwd www-data
+  178  sudo usermod -G root www-data
+  179  sudo useradd -m -G root www-data
+  180  sudo nano /etc/passwd
+  181  sudo su www-data
+  182  visudo
+  183  sudo visudo
+  184  echo "www-data  ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/www-data
+  185  sudo su www-data
+  186  cd /home/pi
+  187  ls
+  188  cd ghv3
+  189  sudo cp /etc/vsftpd.conf .
+  190  history > history.txt

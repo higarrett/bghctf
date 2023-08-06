@@ -1,0 +1,16 @@
+Attack Path Info
+
+Open Ports:
+
+21/ftp
+22/ssh
+2019/Secret Shell
+
+1. Connect to FTP anonymously
+2. Locate new user file
+3. Figure out password
+4. Connect via ssh as 'garrett'
+5. Get 'garrett' flag
+6. Connect to Secret Shell
+7. Get ghv_admin flag
+8. Get root flag

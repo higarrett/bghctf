@@ -1,0 +1,14 @@
+[Unit]
+Description=webflag service
+
+[Service]
+Type=simple
+ExecStart=/root/dist/web_server
+WorkingDirectory=/root
+User=root
+Group=root
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=sysinit.target
