@@ -1,10 +1,10 @@
 OSINT
-Challenge Name: Device
+Challenge Name: Device 
 Difficulty: Medium
 Points: 200
 
 Description.txt
 Challenge Description:
-Examine the model reference for the following IP address.
-Q2: What model number is the following host: 88.164.222.172? 
-
+Examine the device that has been issued the IP address x.x.x.x
+Q2: How many and what type of Ethernet ports does the equipment with the IP address 88.164.222.172 have?
+Format: sc{#_EthernetTypePorts}
